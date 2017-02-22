@@ -1,0 +1,26 @@
+{
+  "name": "date-fns-start-of",
+  "version": "1.0.0",
+  "description": "A collection of the date-fns startOf functions",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "Rowan Winsemius <rowanwins@yahoo.com.au>",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^1.27.2"
+  },
+  "devDependencies": {
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "eslint-config-vue": "^2.0.2",
+    "eslint-plugin-vue": "^2.0.1",
+    "rollup": "^0.41.4",
+    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-commonjs": "^7.0.0",
+    "rollup-plugin-eslint": "^3.0.0",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "rollup-plugin-uglify": "^1.0.1",
+    "tape": "^4.6.3"
+  }
+}

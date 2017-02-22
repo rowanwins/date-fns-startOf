@@ -1,0 +1,6 @@
+{
+  "extends": "vue",
+  "rules": {
+        "camelcase": 0
+    }
+}
