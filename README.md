@@ -8,7 +8,7 @@ A collection of the date-fns [startOf](https://date-fns.org/docs/) functions to 
 ## Usage
 Simply add your date as the first argument, and the startOf type as your second argument and you're done!
 
-dateFnsStartOf(<Date>, <StartOfType> one of 'second' 'minute' 'hour' 'day' 'week' 'ISOweek' month 'year' or 'ISOyear');
+dateFnsStartOf(Date, StartOfType one of 'second' 'minute' 'hour' 'day' 'week' 'ISOweek' month 'year' or 'ISOyear');
 
 ````
 var dateFnsStartOf = require('date-fns-startOf');
